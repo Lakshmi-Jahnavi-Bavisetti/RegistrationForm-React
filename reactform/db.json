@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "ofname": "Jahnavi",
+      "olname": "Bavisetti",
+      "ogender": "Female",
+      "oemail": "jahnavi@gmail.com",
+      "ophone": "97016555636",
+      "ocoursename": "JAVASCRIPT",
+      "id": 1
+    },
+    {
+      "ofname": "Karthik",
+      "olname": "Kunche",
+      "ogender": "Male",
+      "oemail": "kvvskarthik@gmail.com",
+      "ophone": "8985164552",
+      "ocoursename": "JAVASCRIPT",
+      "id": 2
+    },
+    {
+      "ofname": "jahnavi",
+      "olname": "B",
+      "ogender": "Female",
+      "oemail": "jahnavi@gmail.com",
+      "ophone": "9701655636",
+      "ocoursename": "HTML-CSS",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
